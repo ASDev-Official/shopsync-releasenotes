@@ -9,11 +9,11 @@ draft: false
 lang: ""
 ---
 
-# Translations
+## Translations
 
 1. Updated translation files for Russian in <https://github.com/ASDev-Official/shopsync/pull/195>
 
-# Chores
+## Chores
 
 1. Upgraded Dependencies:
    - <https://github.com/ASDev-Official/shopsync/pull/196>
