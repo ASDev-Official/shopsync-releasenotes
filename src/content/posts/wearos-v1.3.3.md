@@ -1,5 +1,5 @@
 ---
-title: ShopSync WearOS 1.3.3
+title: ShopSync WearOS v1.3.3
 published: 2026-01-15
 description: ""
 image: ""
