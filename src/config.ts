@@ -51,7 +51,7 @@ export const navBarConfig: NavBarConfig = {
 		},
 		{
 			name: "ShopSync",
-			url: "https://shopsync.dev",
+			url: "https://shopsync.aadish.dev",
 			external: true,
 		},
 		{
